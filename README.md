@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="" src="https://raw.githubusercontent.com/bernardocostaa/animais-fantasticos/master/templete2.jpg" width="100%">
+  <img alt="" src="https://raw.githubusercontent.com/bernardocostaa/Random-Color/main/templete2.jpg" width="100%">
 </p>
 
 <p align="center">
