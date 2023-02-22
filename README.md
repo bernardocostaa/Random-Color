@@ -29,7 +29,7 @@ Link do Projeto: [Random Color](https://bernardocostaa.github.io/Random-Color/)
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/bernardocostaa/animais-fantasticos/blob/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/bernardocostaa/Random-Color/blob/main/LICENSE) para mais detalhes.
 
 ---
 
