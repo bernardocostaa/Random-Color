@@ -1,11 +1,37 @@
-# Random-Color
+<h1 align="center">
+  Random Color
+</h1>
 
-### Projeto
+<p align="center">
+  <img alt="" src="https://raw.githubusercontent.com/bernardocostaa/Random-Color/main/templete2.jpg" width="100%">
+</p>
 
-Foi feito um site que troca de cor ao clique de forma aleatória HTML5, CSS3 e JavaScript
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://bernardocostaa.github.io/Random-Color/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-### Tamplate do Projeto
+<br>
 
-<img width="150" align="center" alt="Business_PNG" target="_blank" src="https://raw.githubusercontent.com/bernardocostaa/Random-Color/main/bg-color.png">
+## 🚀 Tecnologias
 
-## Acesse o Link https://bernardocostaa.github.io/Random-Color/hex.html
+Esse projeto está sendo desenvolvido com as seguintes tecnologias:
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 🚧 Projeto:
+
+Link do Projeto: [Random Color](https://bernardocostaa.github.io/Random-Color/)
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/bernardocostaa/Random-Color/blob/main/LICENSE) para mais detalhes.
+
+---
+
+Feito por Bernardo Costa
+
