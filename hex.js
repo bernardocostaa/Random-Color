@@ -6,14 +6,11 @@ const spanColor = document.querySelector('.cod-cor')
 btn.addEventListener('click',()=>{
   let hex = '#'
  for(let i =0; i < 6; i++){
-  // const colorrandom = randomHex()
   hex += hexDecimal[randomHex()]
  }
  spanColor.textContent = hex
  document.body.style.background = hex
 })
-
-
 
 function randomHex(){
   return Math.floor(Math.random() * hexDecimal.length)

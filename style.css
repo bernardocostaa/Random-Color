@@ -1,3 +1,4 @@
+
 *{
   margin: 0;
   padding: 0;
@@ -32,7 +33,6 @@ nav{
   font-size: 1.5rem;
   color: #49a6e9;
 }
-
 .links-nav{
   display: flex;
 }
@@ -46,7 +46,6 @@ nav{
 .links-nav li a:hover{
   color: #49a6e9;
 }
-
 main{
     display: flex;
     flex-direction: column;
@@ -92,7 +91,6 @@ main h1{
   background: #222;
   color: white;
 }
-
 @media(max-width:700px){
   main h1,.cod-cor{
     font-size: 30px;
